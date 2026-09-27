@@ -90,8 +90,6 @@ graph TD
 
 ### 5. Программа
 
-Нужно вставить код прямо в отчет в блок:
-
 ```java
 import java.util.Scanner;
 
